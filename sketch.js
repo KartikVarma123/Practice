@@ -20,7 +20,7 @@ function preload()
 }
 
 function setup() {
-	createCanvas(800, 750);
+	createCanvas(800, 950);
 
 	//write code to play fairyVoice sound
 
